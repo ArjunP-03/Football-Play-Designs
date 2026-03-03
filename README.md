@@ -62,7 +62,10 @@ cd Football-Play-Designs
 
 4. Run any play:
 
-python Bunch.py
+press play(top right button) of file
+or
+python3 Bunch.py in command line(no need to open file)
+
 
 ---
 
