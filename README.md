@@ -63,7 +63,9 @@ cd Football-Play-Designs
 4. Run any play:
    
 - press play(top right button) of file
+  
   OR
+
 - python3 Bunch.py in command line(no need to open file)
 
 
@@ -77,4 +79,4 @@ Screen recordings of all 11 plays were compiled into a Google Slides presentatio
 - Route Tree
 - QB Porgression
 - Execution flow
-Google Slide: https://docs.google.com/presentation/d/1JM18x171T-zykjC_zDZuBqkEFOodP4jtygRIFKj2fNs/edit?slide=id.g3c4821ffe00_1_48&pli=1#slide=id.g3c4821ffe00_1_48
+- Google Slide: https://docs.google.com/presentation/d/1JM18x171T-zykjC_zDZuBqkEFOodP4jtygRIFKj2fNs/edit?slide=id.g3c4821ffe00_1_48&pli=1#slide=id.g3c4821ffe00_1_48
