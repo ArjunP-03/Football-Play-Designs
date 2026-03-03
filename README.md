@@ -54,11 +54,11 @@ The simulation visually demonstrates spacing, sequencing, and strategic objectiv
 
 2. Clone the repository:
 
-git clone https://github.com/yourusername/Football-Play-Designs.git
+- git clone https://github.com/yourusername/Football-Play-Designs.git
 
 3. Navigate to the project directory:
 
-cd Football-Play-Designs
+- cd Football-Play-Designs
 
 4. Run any play:
    
