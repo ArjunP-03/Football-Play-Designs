@@ -61,10 +61,10 @@ git clone https://github.com/yourusername/Football-Play-Designs.git
 cd Football-Play-Designs
 
 4. Run any play:
-
-press play(top right button) of file
-or
-python3 Bunch.py in command line(no need to open file)
+   
+- press play(top right button) of file
+  OR
+- python3 Bunch.py in command line(no need to open file)
 
 
 ---
