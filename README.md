@@ -68,9 +68,10 @@ python Bunch.py
 
 ## Demonstration
 
-Screen recordings of all 11 plays were compiled into a Google Slides presentation explaining:
+Screen recordings of all 11 plays were compiled into a Google Slides presentation Illustrating:
 
-- Play objective
+- Play Call
 - Route Tree
 - QB Porgression
 - Execution flow
+Google Slide: https://docs.google.com/presentation/d/1JM18x171T-zykjC_zDZuBqkEFOodP4jtygRIFKj2fNs/edit?slide=id.g3c4821ffe00_1_48&pli=1#slide=id.g3c4821ffe00_1_48
